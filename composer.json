@@ -8,6 +8,9 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "enqueue/enqueue-bundle": "^0.10.15",
+        "enqueue/redis": "^0.10.9",
+        "predis/predis": "^1.1",
+        "sensio/framework-extra-bundle": "^6.2",
         "symfony/console": "5.4.*",
         "symfony/dotenv": "5.4.*",
         "symfony/flex": "^1.17|^2",
@@ -62,5 +65,8 @@
             "allow-contrib": true,
             "require": "5.4.*"
         }
+    },
+    "require-dev": {
+        "symfony/maker-bundle": "^1.36"
     }
 }
