@@ -1,4 +1,4 @@
-#PHP Enqueue Bundle Demo
+# PHP Enqueue Bundle Demo
 
 This project is a simple demo to test and demonstrate php-enqueue capabilities.
 
